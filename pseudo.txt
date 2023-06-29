@@ -1,0 +1,12 @@
+***************PSEUDO CODE***************
+
+if ear_shape_is_pointy:
+	if face_shape_is_round:
+		prediction = cat
+	else:
+		prediction = not_cat
+else:
+	if whiskers_present:
+		prediction = cat
+	else:
+		prediction = not_cat
